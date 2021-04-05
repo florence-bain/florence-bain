@@ -10,4 +10,14 @@
 
 💞️ I’m looking to be an ambassador and role model to/for other women who have also found it difficult to break into the tech industry. I will aim to join a software team working on innovative projects with beautiful design and user experience.
 
+🔗 Personal resource links:
+- Codecademy - *Completed*: Learn how to code, Ruby. *Working on*: Javascript, Java https://www.codecademy.com/profiles/Florence314856
+- Codewars - *Current point level*: 126 6kyu https://www.codewars.com/users/florence-bain
+- Codebar - https://codebar.io/profile
+
+📙 Favourite books for learning:
+- Chris Pine: Learn to program (completed exercises)
+- Zed Shaw: Learn Ruby the hard way (read only)
+- Don Norman: The design of everyday things
+
 📫 How to reach me: florence_bain@outlook.com.
